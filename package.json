@@ -1,0 +1,15 @@
+{
+  "name": "travesy-node-js",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Talha",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
